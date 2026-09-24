@@ -3,7 +3,7 @@
 # -----------------------------------------------------------------------------
 
 title: UGA BRAIN Lab # the website title (if blank, full name will be used instead)
-first_name: BRAIN
+first_name: BRAIN # check that this looks okay
 middle_name:
 last_name: LAB
 contact_note: >
