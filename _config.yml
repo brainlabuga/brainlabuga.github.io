@@ -209,6 +209,9 @@ collections:
     output: true
   teachings:
     output: true
+  profiles:
+    output: true
+    permalink: /people/:path/
 
 # -----------------------------------------------------------------------------
 # Jekyll settings

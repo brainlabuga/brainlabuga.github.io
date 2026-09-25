@@ -1,6 +1,8 @@
 ---
-layout: profile
+layout: page
 name: Dr. Max P. Herzberg
+category: Principal Investigator
+importance: 1
 category: Principal Investigator
 ---
 

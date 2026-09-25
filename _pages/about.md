@@ -3,7 +3,7 @@ layout: about
 title: Home
 permalink: /
 subtitle: Department of Psychology, University of Georgia
-nav: true
+nav: false
 nav_order: 1
 
 profile:true
