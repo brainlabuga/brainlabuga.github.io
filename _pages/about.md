@@ -6,7 +6,7 @@ subtitle: Department of Psychology, University of Georgia
 nav: false
 nav_order: 1
 
-profile:true
+profile:
   align: right
   image: lab-logo-with-lines.png
   image_circular: false # crops the image to make it circular
