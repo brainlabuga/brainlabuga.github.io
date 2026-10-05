@@ -8,7 +8,7 @@ nav_order: 1
 
 profile:
   align: right
-  image: lab-logo-with-lines.png
+  image: lab-logo-no-lines.png
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Suite 502 Psychology</p>
