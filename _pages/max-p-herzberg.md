@@ -1,11 +1,3 @@
----
-layout: page
-name: Dr. Max P. Herzberg
-category: Principal Investigator
-importance: 1
-category: Principal Investigator
----
-
 Max P. Herzberg, Ph.D., is a developmental cognitive neuroscientist and Assistant Professor in the Department of Psychology at the University of Georgia. He also holds graduate faculty status in the Neuroscience program at UGA. Max directs the Brain Research in Adolescence and Infancy (BRAIN) Lab.
 
 Dr. Herzberg’s research investigates the effects of stress on brain development and subsequent adaptive or maladaptive behavioral outcomes. In particular, he has long standing interest in the interactive effects of environments and brain structure and function in predicting risk for psychopathology and in exploring the effects of stress on neuroplasticity in human neuroimaging. The BRAIN lab leverages Dr. Herzberg’s expertise in structural and functional magnetic resonance imaging (MRI) to address these areas of interest and many more. Other methods used in the lab include electroencephalography (EEG), behavioral stress assessments, cognitive tasks, and self-reported behavioral data collection.
