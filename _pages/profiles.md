@@ -16,11 +16,11 @@ profiles:
     more_info: >
       <p>Contact: mherzberg@uga.edu</p>
   - align: left
-    image: PictureStan1.jpg
+    image: Stan Headshot.jpg
     content: stan-de-visser.md
     image_circular: false # crops the image to make it circular
   - align: left
-    image: headshot-placeholder.jpg
+    image: Emily Headshot.jpg
     content: emily-drexler.md
     image_circular: false # crops the image to make it circular
   - align: left

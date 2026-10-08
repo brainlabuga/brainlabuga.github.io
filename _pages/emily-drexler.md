@@ -1,1 +1,6 @@
-Bio coming soon!
+<h2 align="left" style="font-weight: normal; font-size: 2em;">Emily Drexler</h2>
+Emily Drexler grew up in Portland, Oregon, and attended Macalester College in St. Paul, Minnesota. She graduated in May 2023 with a B.A. in neuroscience, and minored in geography, and psychology. At Macalester she built a strong foundation on behavioral neuroscience and the relationship between the physical environment and brain development. After graduating, she worked at an Autism clinic in Minneapolis with children aged 5-10 years old for a year, then decided to go into research on childhood development. 
+
+Before attending UGA, Emily was at the University of Minnesota working on two infant neuroimaging studies with Drs. Damien Fair and Julia Moser. There, she engaged with families to collect Precision Functional Mapping fMRI data in neonates and infants in both 3-Tesla and 7-Tesla scanners, working with the only study in the United States to collect 7T data in infants. In the BRAIN Lab, Emily is interested in understanding how early life adversity impacts development and brain by behavior interactions. 
+
+Outside of the lab, Emily loves doing anything active and plays rugby, she also is teaching her cat new tricks!
