@@ -32,7 +32,7 @@ profiles:
     content: undergrad-bowen.md
     image_circular: false # crops the image to make it circular
   - align: right
-    image: headshot-placeholder.jpg
+    image: headshot-shree.jpg
     content: undergrad-shree.md
     image_circular: false # crops the image to make it circular
   - align: right
@@ -48,7 +48,7 @@ profiles:
     content: undergrad-shivani.md
     image_circular: false # crops the image to make it circular
   - align: right
-    image: headshot-placeholder.jpg
+    image: headshot-caitlin.jpg
     content: undergrad-caitlin.md
     image_circular: false # crops the image to make it circular
 

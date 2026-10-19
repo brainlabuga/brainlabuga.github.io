@@ -5,7 +5,7 @@ permalink: /projects/
 description: Below are some projects that the Brain Lab is currently interested in.
 nav: true
 nav_order: 3
-horizontal: true
+horizontal: false
 ---
 
 <!-- pages/projects.md -->
