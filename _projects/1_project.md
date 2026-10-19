@@ -4,7 +4,6 @@ title: Social Stress, Brain Connectivity, and Mental Health
 description: Our current data-collection; see the Get Involved Page for more info! 
 img: assets/img/12.jpg
 importance: 1
-category: work
 related_publications: false
 ---
 

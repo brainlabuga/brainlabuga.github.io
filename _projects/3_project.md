@@ -4,7 +4,6 @@ title: Stress and Brain Development
 description: Exploratory studies in large data sets and conceptual replications
 img: assets/img/7.jpg
 importance: 3
-category: work
 ---
 
 <div class="row">
