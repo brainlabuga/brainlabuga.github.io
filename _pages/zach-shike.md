@@ -1,6 +1,4 @@
 <h2 align="left" style="font-weight: normal; font-size: 2em;">Zach Shike</h2>
 Zach Shike is a first-year doctoral student in the Cognitive Neuroscience program in the Department of Psychology. He graduated from Mississippi State University with a B.S. in Psychology. He spent the last few years as a research assistant at the Institute for Human Neuroscience at Boys Town National Research Hospital studying how adverse life experiences impact neurodevelopment, puberty, and mental health. During his time there as a member of the Cognitive Affective Neurodevelopment in Youth (CANDY) lab, he was trained in MEG and MRI preprocessing techniques, as well as manual pituitary tracing methods. He played a leading role in all of the groundwork for launching the CANDY lab’s first large scale study and was involved in all aspects of research from collecting data to writing manuscripts. 
 
-
-
 In the BRAIN lab, Zach will be involved in exploring the intersecting role of stress and puberty on neurodevelopment and risk for psychopathology. Zach also desires to understand promotive and protective factors that may lead to resilience and to use this work to support future interventions and policy. Outside of research, Zach enjoys hiking, exploring new coffee shops, and crossword puzzles
