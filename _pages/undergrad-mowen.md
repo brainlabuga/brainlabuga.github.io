@@ -1,2 +1,2 @@
 <h2 align="left" style="font-weight: normal; font-size: 2em;">Owen Minikes</h2>
-Bio coming soon!
+Owen Minikes is a third-year undergraduate student studying Neuroscience at the University of Georgia. Some of his interests in research include the effects of early-life adversity on brain development and brain-based disorders, particularly the neural processes involved in addiction. After graduation, he intends to continue studying the brain through graduate-level research and pursue a career in neuroscience. Outside of research, Owen enjoys reading, listening to music, and playing chess.

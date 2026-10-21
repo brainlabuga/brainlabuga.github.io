@@ -1,2 +1,2 @@
 <h2 align="left" style="font-weight: normal; font-size: 2em;">Owen Beckett</h2>
-Bio coming soon!
+I'm a second-year Neuroscience major with a certificate in industrial biosciences. After my undergrad, I plan to pursue a PhD in developmental neuro and hope to work as a data analyst in the future. I'm primarily interested in what factors can predict positive outcomes in adolescents and children after the development of psychopathologies, and what interventions would be effective in producing better life outcomes. When I'm not in the lab, I enjoy reading, playing the guitar, and nature walks.

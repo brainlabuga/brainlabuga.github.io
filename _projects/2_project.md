@@ -2,7 +2,7 @@
 layout: page
 title: Neuroplasticity in Infancy
 description: Collaborative studies investigating the organization of early brain development
-img: assets/img/3.jpg
+img: assets/img/projects-baby2.jpg
 importance: 2
 ---
 

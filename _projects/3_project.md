@@ -2,7 +2,7 @@
 layout: page
 title: Stress and Brain Development
 description: Exploratory studies in large data sets and conceptual replications
-img: assets/img/7.jpg
+img: assets/img/projects-brain.jpg
 importance: 3
 ---
 
