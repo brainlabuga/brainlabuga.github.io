@@ -36,7 +36,7 @@ latest_posts:
 
 <div class="row mt-4">
   <div class="col-12">
-    <img src="{{ '/assets/img/projects-egg.jpg' | relative_url }}" class="img-fluid rounded z-depth-1" alt="Header Photo" style="width: 100%;">
+    <img src="{{ '/assets/img/BRAIN_group_3.jpg' | relative_url }}" class="img-fluid rounded z-depth-1" alt="Header Photo" style="width: 100%;">
   </div>
 </div>
 
