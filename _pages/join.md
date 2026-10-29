@@ -14,4 +14,4 @@ The BRAIN Lab is made up of strong undergraduate students interested in neurosci
 **Dr. Herzberg will not be accepting graduate applications for the 2027 – 2028 school year.**
 
 # Undergraduate Students
-We are currently accepting applications for undergraduate research assistants for the Spring 2027 semester. If you are interested, please complete the [BRAIN Lab UGRA application form]("https://forms.gle/cRJWG1M6DP2nc2MU8").
+We are currently accepting applications for undergraduate research assistants for the Spring 2027 semester. If you are interested, please complete the [BRAIN Lab UGRA application form](https://forms.gle/cRJWG1M6DP2nc2MU8).
