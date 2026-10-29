@@ -1,2 +1,2 @@
 <h2 align="left" style="font-weight: normal; font-size: 2em;">Shivani Ramachandran</h2>
-Bio coming soon!
+Shivani is a third-year student at the University of Georgia who joined the lab in Fall 2026. She is pursing degrees in Biology and Neuroscience, as well as a Computer Science minor, and plans to attend medical school after graduation. She is involved in Dawg Camp, AMSA, and is a PLA for Organic Chemistry 1. Outside of lab, she enjoys playing guitar, weightlifting, and trying new cafes. 
