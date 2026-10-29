@@ -1,8 +1,9 @@
 ---
 layout: page
 title: Join the Lab
+description: Current opportunities for students in the lab are listed below.
 permalink: /join/
-navbar: true
+nav: true
 nav_order: 6
 ---
 
