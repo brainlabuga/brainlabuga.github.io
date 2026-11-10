@@ -9,7 +9,7 @@ nav_order: 1
 #profile:
   #align: right
   #image: lab-logo-no-lines.png
- # image_circular: false # crops the image to make it circular
+ # image_circular: true # crops the image to make it circular
  # more_info: >
   #  <p>Suite 502 Psychology</p>
    # <p>125 Baldwin St.</p>
@@ -48,7 +48,7 @@ The BRAIN Lab at the University of Georgia, directed by Dr. Max Herzberg, is a d
 <div class="row my-4 align-items-center">
   <!-- Profile Image Column -->
   <div class="col-md-4 text-center">
-    <img src="assets/img/lab-logo-no-lines.png" class="img-fluid z-depth-1" alt="Lab Logo">
+    <img src="assets/img/lab-logo-new.png" class="img-fluid z-depth-1" alt="Lab Logo">
   </div>
 
   <!-- Caption / Address Column -->

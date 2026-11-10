@@ -40,7 +40,7 @@ profiles:
     content: undergrad-ryley.md
     image_circular: false # crops the image to make it circular
   - align: right
-    image: headshot-placeholder.jpg
+    image: headshot-mowen.jpg
     content: undergrad-mowen.md
     image_circular: false # crops the image to make it circular
   - align: right

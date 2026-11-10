@@ -1,0 +1,6 @@
+/* Hide search bar keyboard shortcut badge */
+#search-toggle kbd,
+.search-short-key,
+kbd {
+  display: none !important;
+}
